@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Others
+dogs-vs-cats/
+.dogs-vs-cats/
+weights/*
+./weights/*
+my_model.h5
+my_model_GAP.h5
+my_model_softmax.h5
+./my_model.h5
+./my_model_GAP.h5
+./my_model_softmax.h5
+
